@@ -2,9 +2,13 @@
 
 One-click pump flow calibration for [GaggiMate](https://github.com/jniebuhr/gaggimate). Runs the calibration shot, analyzes the shot history, and updates `pumpModelCoeffs` on the machine — without leaving the GaggiMate web UI.
 
+### 👉 [Open the installer page](https://ggazzo.github.io/gaggimate-pump-flow-calibration/)
+
+[![Open](https://img.shields.io/badge/try_it-ggazzo.github.io-c98a3d?style=for-the-badge)](https://ggazzo.github.io/gaggimate-pump-flow-calibration/)
+
 ## How it works
 
-Open [`index.html`](./index.html) in your browser and drag the **🔧 Calibrate GaggiMate** button to your bookmarks bar. Then:
+Open the [installer page](https://ggazzo.github.io/gaggimate-pump-flow-calibration/) and drag the **🔧 Calibrate GaggiMate** button to your bookmarks bar. Then:
 
 1. Navigate to your GaggiMate web UI (e.g. `http://gaggimate.local`).
 2. Place a scale with a cup under the steam wand.
